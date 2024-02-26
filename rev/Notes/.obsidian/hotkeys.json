@@ -1,0 +1,39 @@
+{
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}
