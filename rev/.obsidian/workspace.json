@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "576a2b4b0439215a",
+        "id": "49ef2b9eac9104aa",
         "type": "tabs",
         "children": [
           {
-            "id": "8984da3f27c6205b",
+            "id": "677bbcdcc868f4e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/February/02-23-2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dbf4aa0c868e16b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/February/02-26-2024.md",
+                "file": "Daily/2024/March/03-12-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/02-26-2024.md",
+                "file": "Daily/2024/March/03-12-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/02-26-2024.md",
+                "file": "Daily/2024/March/03-12-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/02-26-2024.md"
+                "file": "Daily/2024/March/03-12-2024.md"
               }
             }
           },
@@ -175,8 +161,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dbf4aa0c868e16b",
+  "active": "677bbcdcc868f4e3",
   "lastOpenFiles": [
+    "Customers/BR General/RFP RHC46100009730.md",
+    "Daily/2024/March/03-12-2024.md",
+    "Daily/2024/March/03-07-2024.md",
+    "Daily/2024/March/03-04-2024.md",
+    "Personal.md",
+    "Pasted image 20240304105503.png",
+    "Customers/BR General",
+    "Customers/LOOP/HPBX.md",
+    "Daily/2024/March",
+    "Daily/2024/February/02-08-2024.md",
     "Daily/2024/February/02-26-2024.md",
     "Daily/2024/February/02-16-2024.md",
     "Daily/2024/February/02-21-2024.md",
@@ -185,8 +181,6 @@
     "Daily/2023/December/12-27-2023.md",
     "Daily/2023/December/12-22-2023.md",
     "Daily/2024/February/02-23-2024.md",
-    "Customers/LOOP/HPBX.md",
-    "Daily/2024/February/02-08-2024.md",
     "Daily/2024/February/02-06-2024.md",
     "Daily/2024/January/01-25-2024.md",
     "Daily/2023/December/12-07-2023.md",
@@ -199,11 +193,6 @@
     "Daily/2024/February/02-13-2024.md",
     "Untitled.md",
     "Pasted image 20240209115923.png",
-    "Customers/TGMC.md",
-    "Daily/2024/February/02-09-2024.md",
-    "Daily/2024/February/02-07-2024.md",
-    "HPBX.md",
-    "Daily/2024/February/02-05-2024.md",
     "Pasted image 20240206195418.png",
     "Devices/Adtran",
     "Devices",
@@ -213,8 +202,6 @@
     "Device Information/Ribbon",
     "Device Information",
     "Study/DevNet Associate 200-901/code/meraki/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__",
-    "Study/DevNet Associate 200-901/code/meraki/lib/python3.11/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__",
-    "Study/DevNet Associate 200-901/code/meraki/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__",
     "Study/DevNet Associate 200-901/images/Pasted image 20240120134008.png",
     "Study/DevNet Associate 200-901/images/Pasted image 20240120133912.png",
     "Study/DevNet Associate 200-901/images/Pasted image 20240120131240.png",
